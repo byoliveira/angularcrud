@@ -1,0 +1,24 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Camisa do todo poderoso timao",
+        "price": 150
+    },
+    {
+        "id": 2,
+        "name": "Camisa do Cassio",
+        "price": 150
+    },
+    {
+        "id": 3,
+        "name": "Camisa do Luan cansado",
+        "price": 90
+    },
+    {
+        "id": 4,
+        "name": "Camisa do Neto monsto",
+        "price": 200
+    }
+
+]
+}
